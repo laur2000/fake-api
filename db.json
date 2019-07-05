@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "name": "Vlad",
+        "id": 123456789,
+        "acces_simulator": true,
+        "highscore": {
+          "simulator": {
+            "level1": 2,
+            "level2": 0,
+            "level3": 0
+          }
+        }
+      },
+      {
+        "name": "Cocacola Can",
+        "id": 5449000000996,
+        "acces_simulator": false,
+        "highscore": {
+          "simulator": {
+            "level1": 0,
+            "level2": 0,
+            "level3": 0
+          }
+        }
+      },
+      {
+        "name": "Carrefour",
+        "id": 390013719104,
+        "acces_simulator": true,
+        "highscore": {
+          "simulator": {
+            "level1": 2,
+            "level2": 3,
+            "level3": 0
+          }
+        }
+      }
+    ]
+  }

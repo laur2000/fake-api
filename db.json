@@ -32,7 +32,10 @@
           "simulator": {
             "level1": 2,
             "level2": 3,
-            "level3": 0
+            "level3": 0,
+            "level4": 0,
+            "level5": 0,
+            "level6": 0
           }
         }
       }
